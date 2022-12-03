@@ -3,6 +3,7 @@
 -   **Author**: Bc. Martin Knapovský
 -   **Model type**: System dynamics
 -   **Software used**: Vensim PLE - Windows version
+-   **Date**: 28.12.2015
 
 ------------------------------------------------------------------------
 
